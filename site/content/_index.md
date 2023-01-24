@@ -26,6 +26,9 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
+  - image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc1.primacdn.cz%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Flandscape_extra_large%2Fpublic%2F6d5c83c3%2F1528478-462648407.jpg%3Fitok%3DHzxhiu_p%26c%3Ddef_cloudinary&f=1&nofb=1&ipt=59b6e0a5a48958de667040b14a94193ea70d25d0a5260f282d7cf55fba3fd36e&ipo=images
+    text: Here are the best bananas on earth. We collected them from the highest
+      trees so that no apes were able to touch them before you do.
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
